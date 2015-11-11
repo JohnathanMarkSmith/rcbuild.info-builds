@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ZMR180 Frame",
+    "esc": "BLHeli 12A ESCs",
+    "motor": "MT2204 Motors",
+    "fc": "AbuseMark/Acro-Naze32-rev5",
+    "prop": [
+      "Surveilzone/DalProp-5x4"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy/nano-tech-1300mah-3S-25~50C-Lipo-Pack"
+    ],
+    "osd": "",
+    "receiver": "Spektrum/AR610-DSMX-6CH-Receiver",
+    "flightcam": "Eachine CCD 700TVL 148 Degree Camera Lens",
+    "hqcam": "",
+    "videotx": "Eachine 5.8G 200mW FPV Transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
